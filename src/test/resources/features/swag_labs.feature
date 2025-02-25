@@ -1,6 +1,5 @@
 #language:en
 
-@Regresion
 Feature: Yo como usuario quiero probar el escenario de compra en el sitio Swag Labs
 
   @ComprarProducto
